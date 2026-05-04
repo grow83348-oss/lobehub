@@ -974,4 +974,4 @@ const GEMINI_KEY = 'AIzaSyDroFwVS75T3s6Oz7eo5P3fl89o8-kWPeY';
 async function telegramAgent(msg) {
     // এখানে জেমিনি এপিআই কল হবে এবং উত্তর টেলিগ্রামে যাবে
     console.log("এজেন্ট মেসেজ প্রসেস করছে...");
-} 
+}
